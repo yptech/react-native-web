@@ -24,6 +24,7 @@ module.exports = process.env.NODE_ENV !== 'production' ? {
   /*
    * @platform web
    */
+  background: string,
   backgroundAttachment: string,
   backgroundClip: string,
   backgroundImage: string,
